@@ -1,0 +1,15 @@
+C:\Users\79688\Desktop\Seminar 1 C#\z1_kvadrat\bin\Debug\net6.0\z1_kvadrat.exe
+C:\Users\79688\Desktop\Seminar 1 C#\z1_kvadrat\bin\Debug\net6.0\z1_kvadrat.deps.json
+C:\Users\79688\Desktop\Seminar 1 C#\z1_kvadrat\bin\Debug\net6.0\z1_kvadrat.runtimeconfig.json
+C:\Users\79688\Desktop\Seminar 1 C#\z1_kvadrat\bin\Debug\net6.0\z1_kvadrat.dll
+C:\Users\79688\Desktop\Seminar 1 C#\z1_kvadrat\bin\Debug\net6.0\z1_kvadrat.pdb
+C:\Users\79688\Desktop\Seminar 1 C#\z1_kvadrat\obj\Debug\net6.0\z1_kvadrat.csproj.AssemblyReference.cache
+C:\Users\79688\Desktop\Seminar 1 C#\z1_kvadrat\obj\Debug\net6.0\z1_kvadrat.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\79688\Desktop\Seminar 1 C#\z1_kvadrat\obj\Debug\net6.0\z1_kvadrat.AssemblyInfoInputs.cache
+C:\Users\79688\Desktop\Seminar 1 C#\z1_kvadrat\obj\Debug\net6.0\z1_kvadrat.AssemblyInfo.cs
+C:\Users\79688\Desktop\Seminar 1 C#\z1_kvadrat\obj\Debug\net6.0\z1_kvadrat.csproj.CoreCompileInputs.cache
+C:\Users\79688\Desktop\Seminar 1 C#\z1_kvadrat\obj\Debug\net6.0\z1_kvadrat.dll
+C:\Users\79688\Desktop\Seminar 1 C#\z1_kvadrat\obj\Debug\net6.0\refint\z1_kvadrat.dll
+C:\Users\79688\Desktop\Seminar 1 C#\z1_kvadrat\obj\Debug\net6.0\z1_kvadrat.pdb
+C:\Users\79688\Desktop\Seminar 1 C#\z1_kvadrat\obj\Debug\net6.0\z1_kvadrat.genruntimeconfig.cache
+C:\Users\79688\Desktop\Seminar 1 C#\z1_kvadrat\obj\Debug\net6.0\ref\z1_kvadrat.dll
